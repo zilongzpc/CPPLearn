@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>BA3C436F-AB7D-4DB2-8EE1-253389BF5F5A</string>
+	<string>85B359C2-AEE9-417D-8E76-8BDBBD239B2F</string>
 	<key>IDESourceControlProjectName</key>
 	<string>CPPLearn</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -17,8 +17,12 @@
 	<string>xcode/CPPLearn.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>1DB482F2-4A83-40DE-BA73-6B85CE3951CB</key>
+		<string>../NameSpace</string>
 		<key>5A155C84-D750-4877-9C9D-265DB4E90E60</key>
-		<string>../..</string>
+		<string>../OOP</string>
+		<key>A75444EA-A85F-4524-BBC7-1F9D66C77DCD</key>
+		<string>../Class</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/zilongzpc/CPPLearn.git</string>
@@ -32,9 +36,33 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A75444EA-A85F-4524-BBC7-1F9D66C77DCD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1DB482F2-4A83-40DE-BA73-6B85CE3951CB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NameSpace</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>5A155C84-D750-4877-9C9D-265DB4E90E60</string>
 			<key>IDESourceControlWCCName</key>
-			<string>CPPLearn</string>
+			<string>OOP</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A155C84-D750-4877-9C9D-265DB4E90E60</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OOP</string>
 		</dict>
 	</array>
 </dict>
